@@ -14,6 +14,9 @@ public class  Todo {
 
     }
 
+
+    //Lombok can be used to avoid writing getter and setter function.
+
     public int getId() {
         return id;
     }
