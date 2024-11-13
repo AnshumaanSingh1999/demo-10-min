@@ -1,4 +1,4 @@
-//API Endpoints Logic Here.
+//API Endpoints Here.
 
 
 package com.example.demo_10_min.Controllers;
