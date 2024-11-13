@@ -10,7 +10,9 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+//@RestController is used to make restful web services(accept request and give response).
 @RestController
+//@RequestMapping annotation to map requests to controllers methods.
 @RequestMapping("/todos")
 public class ToDoController {
 
