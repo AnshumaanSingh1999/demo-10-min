@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 
+//@Service annotation is used to indicate service layer and that classes provide some business functionalities.
 @Service
 public class ToDoService {
 
